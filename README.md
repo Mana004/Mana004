@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Manish Girish Patil</h1>
+<h1 align="center">Hey! I'm Manish </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=00ff99&center=true&width=400&lines=Java+%7C+DSA+%7C+FastAPI+%7C+AWS+%7C+Web+Dev" alt="Typing animation" />
