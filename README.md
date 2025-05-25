@@ -9,7 +9,7 @@
 <p align="center">
   💡 A passionate problem-solver, full-stack developer & cloud enthusiast <br>
   🧠 Always learning. Always building. Always leveling up.<br>
-  💻 Ask me about DSA, Java, Web dev, APIs. Mostly, ask me anout DSA.
+  💻 Ask me about DSA, Java, Web dev, APIs. Mostly, ask me DSA.
 </p>
 
 
@@ -85,10 +85,6 @@
 <br>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ManishGirishPatil?theme=dark&font=Arial&ext=contest)](https://leetcode.com/u/ManishGirishPatil/)
-
-- 🔹 Solving DSA problems in Java
-- 🔹 Practicing daily problems & contests
-- 🔹 Focused on mastering core concepts for interviews
 
 
 
