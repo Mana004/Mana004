@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=700&color=00ff99&center=true&width=400&lines=Java+%7C+DSA+%7C+FastAPI+%7C+AWS+%7C+Web+Dev" alt="Typing animation" />
 </p>
 
----
+
 
 <p align="center">
   💡 A passionate problem-solver, full-stack developer & cloud enthusiast <br>
@@ -12,7 +12,6 @@
   💻 Ask me about DSA, Java, Web dev, APIs. Mostly, ask me anout DSA.
 </p>
 
----
 
 ### 🚀 About Me
 
@@ -24,10 +23,9 @@
 
 
 
----
 
-## 🚀 Tech Stack
 
+## 💻 Tech Stack
 
 <table align="center">
   <tr>
@@ -40,15 +38,15 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="65" height="65" />
       <br>Express.js
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flask_logo.svg" alt="Flask" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="65" height="65" />
       <br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://techicons.dev/icons/fastapi.svg" alt="FastAPI" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="65" height="65" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
@@ -56,11 +54,13 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg" alt="PostgreSQL" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="65" height="65" />
       <br>PostgreSQL
     </td>
   </tr>
 </table>
+
+
 
 
 
@@ -82,7 +82,7 @@
   </a>
 </div>
 
----
+<br>
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ManishGirishPatil?theme=dark&font=Arial&ext=contest)](https://leetcode.com/u/ManishGirishPatil/)
 
@@ -90,21 +90,12 @@
 - 🔹 Practicing daily problems & contests
 - 🔹 Focused on mastering core concepts for interviews
 
-🔗 [Visit my LeetCode profile](https://leetcode.com/u/ManishGirishPatil/)
 
-
-![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Active%20User-green?logo=geeksforgeeks&style=flat)
 
 ---
 
-## 💻 Projects Using These Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mana004&layout=compact&theme=radical)
 
-| Project | Tech Used | Description |
-|--------|------------|-------------|
-| `Hybrid Encryption System` | `Flask`, `AES`,`3DES`,`BlowFish`, `ownCloud` | Secure file upload system |
-| `Event Management Microservices` | `FastAPI`, `PostgreSQL`, `Docker`, `JWT` | Modular event service backend |
-
----
 
 ## 🎯 Currently Exploring
 
