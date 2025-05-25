@@ -28,14 +28,42 @@
 
 ## 🚀 Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="50" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=javascript&theme=dark" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="50" alt="Express.js" />
-  <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="50" alt="Flask" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" height="50" alt="FastAPI" />
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="50" alt="AWS" />
-</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express.js" width="65" height="65" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Flask_logo.svg" alt="Flask" width="65" height="65" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.dev/icons/fastapi.svg" alt="FastAPI" width="65" height="65" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Postgresql_elephant.svg" alt="PostgreSQL" width="65" height="65" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+
+
 
 ---
 
