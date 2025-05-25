@@ -86,6 +86,9 @@
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/ManishGirishPatil?theme=dark&font=Arial&ext=contest)](https://leetcode.com/u/ManishGirishPatil/)
 
+<!-- GFG_STATS_START -->
+<!-- GFG_STATS_END -->
+
 
 
 ---
