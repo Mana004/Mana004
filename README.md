@@ -88,12 +88,16 @@
 
 <!-- GFG_STATS_START -->
 <!-- GFG_STATS_END -->
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/itsmanhy69)](https://www.geeksforgeeks.org/user/itsmanhy69/)
 
 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mana004&layout=compact&theme=radical)
+
+# 📊 GitHub:
+<img alt="Mana004's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mana004&hide=jupyter%20notebook,html&theme=react&langs_count=16&layout=compact" /><br>
+
 
 
 ## 🎯 Currently Exploring
