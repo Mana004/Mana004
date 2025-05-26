@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  💡 problem-solver, full-stack developer & cloud enthusiast <br>
+  Problem-solver, full-stack developer & cloud enthusiast <br>
   🧠 Ask me about DSA, Java, Web dev, APIs. Mostly, ask me DSA.
 </p>
 
@@ -22,13 +22,13 @@
 
   
 
-### 🚀 About Me
+###  About Me
 
-- 🎓 Third year CS student with a strong foundation in **Data Structures & Algorithms**
-- 💻 I build fast, scalable, and clean APIs using **Express.js**, **Flask**, and **FastAPI**
-- ☁️ Gained cloud fundamentals through **AWS Cloud Practitioner** knowledge
-- 🧩 I love solving problems on **LeetCode** and **GeeksforGeeks**
-- ⚡ Currently exploring microservices, system design, and DevOps practices
+Third year CS student with a strong foundation in **Data Structures & Algorithms**<br>
+I build fast, scalable, and clean APIs using **Express.js**, **Flask**, and **FastAPI**<br>
+Gained cloud fundamentals through **AWS Cloud Practitioner** knowledge<br>
+I love solving problems on **LeetCode** and **GeeksforGeeks**<br>
+Currently exploring microservices, system design, and DevOps practices<br>
 
 
 
