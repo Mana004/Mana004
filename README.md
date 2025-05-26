@@ -12,6 +12,16 @@
   💻 Ask me about DSA, Java, Web dev, APIs. Mostly, ask me DSA.
 </p>
 
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github.com/Mana004/Mana004/blob/main/vsgif_com_vegeta-gif_.3602560.gif" />
+</div>
+
+
+
+  
 
 ### 🚀 About Me
 
@@ -23,9 +33,8 @@
 
 
 
-  --
 
-  ![](https://github.com/Mana004/Mana004/blob/main/2AD492F48573735B4A55D5FEB7AB0F7D6B6DA8CD.gif)
+
 
 
 
