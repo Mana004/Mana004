@@ -69,18 +69,7 @@
 
 ## 📘 Coding Profiles
 
-<div align="center">
-  <a href="https://leetcode.com/u/ManishGirishPatil/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-%23007ACC.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
 
-    
-  </a>
-
-  
-  <a href="https://www.geeksforgeeks.org/user/itsmanhy69/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-28a745?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-</div>
 
 <br>
 
