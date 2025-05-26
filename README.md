@@ -7,9 +7,8 @@
 
 
 <p align="center">
-  💡 A passionate problem-solver, full-stack developer & cloud enthusiast <br>
-  🧠 Always learning. Always building. Always leveling up.<br>
-  💻 Ask me about DSA, Java, Web dev, APIs. Mostly, ask me DSA.
+  💡 problem-solver, full-stack developer & cloud enthusiast <br>
+  🧠 Ask me about DSA, Java, Web dev, APIs. Mostly, ask me DSA.
 </p>
 
 <br>
