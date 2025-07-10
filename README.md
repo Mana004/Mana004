@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  Problem-solver, full-stack developer & cloud enthusiast <br>
+ I like to solve DSA Problems and I know Dev as well<br>
   🧠 Ask me about DSA, Java, Web dev, APIs. Mostly, ask me DSA.
 </p>
 
