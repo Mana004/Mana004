@@ -23,10 +23,9 @@
 ###  About Me
 
 Third year CS student with a strong foundation in **Data Structures & Algorithms**<br>
-I build fast, scalable, and clean APIs using **Express.js**, **Flask**, and **FastAPI**<br>
-Gained cloud fundamentals through **AWS Cloud Practitioner** knowledge<br>
+I like to build APIs using **Express.js**, **Flask**, and **FastAPI**<br>
 I love solving problems on **LeetCode** and **GeeksforGeeks**<br>
-Currently exploring microservices, system design, and DevOps practices<br>
+
 
 
 
